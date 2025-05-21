@@ -73,8 +73,9 @@ if __name__ == "__main__":
     main()
 ```
 ## OUTPUT
-![alt text](Image-1.png)
-![alt text](Image-2.png)
+![Image-2](https://github.com/user-attachments/assets/5f92c327-db2c-4177-badf-20a6de4799b6)
+![Image-1](https://github.com/user-attachments/assets/7d23cbf6-a256-4e54-b36b-6a086a650665)
+
 
 ## RESULT
 The prototype successfully demonstrates text-to-image generation using Stable Diffusion, providing an interactive and user-friendly interface. Users can modify parameters to influence the output quality and style.
